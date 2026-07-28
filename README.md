@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0035-search-insert-position) |
 | [0119-pascals-triangle-ii](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0119-pascals-triangle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0229-majority-element-ii) |
@@ -40,6 +41,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0704-binary-search) |
 ## String
