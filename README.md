@@ -11,6 +11,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0540-single-element-in-a-sorted-array) |
@@ -51,6 +52,7 @@
 | [0035-search-insert-position](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0704-binary-search) |
