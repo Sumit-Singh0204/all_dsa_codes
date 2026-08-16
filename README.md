@@ -18,6 +18,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0875-koko-eating-bananas) |
 ## String
 |  |
 | ------- |
