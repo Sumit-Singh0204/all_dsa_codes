@@ -13,6 +13,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0704-binary-search) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0344-reverse-string) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
