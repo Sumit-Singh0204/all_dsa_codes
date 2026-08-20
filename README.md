@@ -70,8 +70,17 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0189-rotate-array) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
