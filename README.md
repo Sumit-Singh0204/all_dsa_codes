@@ -73,10 +73,12 @@
 | [0151-reverse-words-in-a-string](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
