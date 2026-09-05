@@ -29,6 +29,7 @@
 | [0205-isomorphic-strings](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
@@ -83,6 +84,7 @@
 | [0205-isomorphic-strings](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0344-reverse-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0796-rotate-string) |
@@ -122,4 +124,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0451-sort-characters-by-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
