@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0119-pascals-triangle-ii) |
+| [0647-palindromic-substrings](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0647-palindromic-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
@@ -86,6 +88,7 @@
 | [0344-reverse-string](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0451-sort-characters-by-frequency) |
+| [0647-palindromic-substrings](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/1021-remove-outermost-parentheses) |
