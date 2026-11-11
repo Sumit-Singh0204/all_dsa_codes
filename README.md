@@ -103,6 +103,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0189-rotate-array) |
+| [0507-perfect-number](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
