@@ -15,6 +15,7 @@
 | [0162-find-peak-element](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0704-binary-search) |
@@ -103,6 +104,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -141,4 +143,24 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0438-find-all-anagrams-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
