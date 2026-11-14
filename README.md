@@ -17,6 +17,7 @@
 | [0189-rotate-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0724-find-pivot-index) |
@@ -32,6 +33,7 @@
 | [0205-isomorphic-strings](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
@@ -40,6 +42,7 @@
 | [0015-3sum](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
@@ -75,6 +78,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0875-koko-eating-bananas) |
@@ -105,6 +109,7 @@
 | [0013-roman-to-integer](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -163,4 +168,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0204-count-primes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
