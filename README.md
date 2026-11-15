@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0647-palindromic-substrings) |
 ## Prefix Sum
 |  |
