@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0268-missing-number) |
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sumit-Singh0204/all_dsa_codes/tree/master/0189-rotate-array) |
